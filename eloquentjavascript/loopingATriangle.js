@@ -18,3 +18,9 @@ function loopingTriangle() {
     console.log(line)
   }
 }
+
+// Better Solution
+function loopingTriangle() {
+  for (let line = '*'; line.length < 8; line += '*')
+    console.log(line)
+}
