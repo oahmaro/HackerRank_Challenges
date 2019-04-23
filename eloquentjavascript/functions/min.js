@@ -2,9 +2,8 @@
 min that takes two arguments and returns their minimum.
 */
 function min(a, b) {
-  if (a < b) {
-    return a
-  } return b
+  if (a < b) return a
+  else return b
 }
 
 // Sample Input:
