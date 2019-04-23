@@ -1,7 +1,4 @@
-// 1012
-// 12
-// 2
-
+// Link to Question: https://www.hackerrank.com/challenges/find-digits/problem
 function findDigits(n) {
   let arr = String(n).split('')
   let counter = 0

@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
 function birthdayCakeCandles(ar) {
   let highestNum = 0
   let candles = {}

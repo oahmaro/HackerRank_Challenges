@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/time-conversion/problem
 function formatNumber(n) {
   let result = ''
   if (String(n).length < 2) {

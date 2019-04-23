@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/apple-and-orange/problem 
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
   let applesFalls = 0
   let orangesFalls = 0

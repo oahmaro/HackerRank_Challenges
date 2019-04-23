@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/bon-appetit/problem
 function bonAppetit(bill, k, b) {
   let cost = 0
   let half

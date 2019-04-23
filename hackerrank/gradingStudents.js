@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/grading/problem
 function gradingStudents(grades) {
   let result = grades.map((item) => {
     if (item > 37) {

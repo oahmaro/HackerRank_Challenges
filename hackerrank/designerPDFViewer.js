@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem 
 function designerPdfViewer(h, word) {
   // character codes at upper case letters starts counting at 65, thats why subtract 64 so that i start counting from 1
   let characterCodes = word.split('').map((letter) => letter.toUpperCase().charCodeAt(0) - 64)

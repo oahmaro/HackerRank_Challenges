@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/mini-max-sum/problem
 function miniMaxSum(arr) {
   let sum = 0
   arr.sort().forEach((item) => {

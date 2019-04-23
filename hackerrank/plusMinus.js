@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/plus-minus/problem
 function plusMinus(arr) {
   let positiveCounter = 0
   let negativeCounter = 0

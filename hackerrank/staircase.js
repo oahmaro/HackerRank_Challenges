@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/staircase/problem
 function staircase(n) {
   let output = ''
   for (let i = 1; i <= n; i++) {

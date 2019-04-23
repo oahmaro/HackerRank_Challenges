@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/minimum-distances/problem
 function minimumDistances(a) {
   let minDistance = 0
   let pair = 0

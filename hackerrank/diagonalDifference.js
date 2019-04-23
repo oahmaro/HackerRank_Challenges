@@ -1,3 +1,4 @@
+// Link to Question: https://www.hackerrank.com/challenges/diagonal-difference/problem
 function diagonalDifference(arr) {
   let primaryDiagonal = 0
   let secondaryDiagonal = 0
