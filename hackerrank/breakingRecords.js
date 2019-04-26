@@ -21,4 +21,12 @@ function breakingRecords(arr) {
   return [highCounter, lowCounter]
 }
 
-breakingRecords([3, 4, 21, 36, 10, 28, 35, 5, 24, 42])
+// Sample Input 01:
+// 10 5 20 20 4 5 2 25 1
+// Sample Output 01:
+// 2 4
+
+// Sample Input 02:
+// 3 4 21 36 10 28 35 5 24 42
+// Sample Output 02:
+// 4 0
