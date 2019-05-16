@@ -23,4 +23,4 @@ function beautifulDays(i, j, k) {
 // Sample Output 2:
 // 33
 
-beautifulDays(20, 23, 6)
+// beautifulDays(20, 23, 6)
